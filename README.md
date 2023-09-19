@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤗 I'm Manli, a Ph.D. candidate at the University of Maryland. 
+- 🔭 I'm working on [vision-language models](https://github.com/azshue/TPT) and [LLMs](https://github.com/azshue/AutoPoison).
+- 📫 Check out my [website](https://azshue.github.io/) for more information.
+
+![Manli's GitHub stats](https://github-readme-stats-swart-three-56.vercel.app/api?username=azshue&show_icons=true&theme=transparent)
